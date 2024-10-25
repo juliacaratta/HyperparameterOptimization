@@ -4,4 +4,4 @@ This project explores hyperparameter optimization methods applied to binary clas
 
 # Objectives
 - Understand the impact of hyperparameters on binary classification model performance.
-- Compare hyperparameter optimization methods:
+- Compare hyperparameter optimization methods.
